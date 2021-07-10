@@ -14,6 +14,7 @@
  Callibration of measuring equipments such as power supply, oscilloscope, multimeter. <br>
  
  ## Academic Qualifications
+ 
  #### B.TECH ECE
  - Board       : Andhra Univeristy <br>
  - College     : Andhra University College of Engineering for Women <br>
