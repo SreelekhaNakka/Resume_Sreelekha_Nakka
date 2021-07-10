@@ -44,5 +44,10 @@ Autumatic plant watering system using Blynk application IOT
 - Qualified GATE 2019 with a GATE score 338
 - Secured 2nd position in IOT workshop at Stepcone 2017  organised by Robokart in association with Innovation cell UMIC, IIT Bombay
 
+## Personal Details
+Religion | Nationality  : Hindu | Indian <br>
+Date of Birth | Gender  : 26th February 1997 | Female <br>
+Languages known         : English, Telugu, hindi
+
 
 
