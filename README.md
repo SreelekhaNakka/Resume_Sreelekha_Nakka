@@ -14,8 +14,26 @@
  Callibration of measuring equipments such as power supply, oscilloscope, multimeter. <br>
  
  ## Academic Qualifications
+ #### B.TECH ECE
+ - Board       : Andhra Univeristy <br>
+ - College     : Andhra University College of Engineering for Women <br>
+ - CGPA        : 7.67 <br>
+ - Year of Pass: 2018 <br>
+ 
+ #### INTERMEDIATE MPC
+ - Board       : Andhra Pradesh Board of Intermediate Education <br>   
+ - College     : Sri Chaitanya Junior College <br>
+ - Percentage  : 94.40 <br>
+ - Year of Pass: 2014 <br>
+ 
+ #### 10th 
+ - Board       : CBSE <br>
+ - School      : Dr. K.K.R's Gowtham International School <br>
+ - CGPA        : 9.4 <br>
+ - Year of Pass: 2012 <br>
+ 
 Education|Board of Education|Institution|CGPA/Marks|Year of Passout
----------|------------------|-----------|----------|--------------
+---------|------------------|-----------|----------|----------------
 10th|CBSE|Dr.K.K.R's gowthamInternational School|9.4|2012
 Intermediate|A.P Board of Intermediate Education|Sri Chaitanya Junior College|944|2014
 B.Tech ECE|Andhra University|Andhra University College of Engineering for Women|7.67|2018
